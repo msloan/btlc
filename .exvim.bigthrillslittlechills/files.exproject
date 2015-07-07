@@ -1,0 +1,11 @@
+" Press <F1> for help
+
+-[F]bigthrillslittlechills {
+ |-[F]client {
+ | |-main.js }
+ |-bigthrillslittlechills.css
+ |-bigthrillslittlechills.exvim
+ |-bigthrillslittlechills.html
+ |-bigthrillslittlechills.js }
+
+

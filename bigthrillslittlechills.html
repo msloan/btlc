@@ -1,0 +1,15 @@
+<head>
+  <title>bigthrillslittlechills</title>
+</head>
+
+<body>
+  <h1>Welcome to HELL!</h1>
+
+  {{> testForm}}
+</body>
+
+<template name="testForm">
+  {{#basicFormBlock schema=schema action=action}}
+    {{> basicInput field='testField'}}
+  {{/basicFormBlock}}
+</template>
